@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset style="width: 98%;">
+        <legend>Cadastro</legend>
+        <form action="" method="POST" enctype="multipart/form-data">
+
+        <label>Name:</label> 
+        <br>
+        <input name="name" type="text" required>
+        <br>
+        <br>
+
+        <label>E-mail:</label> <br>
+        <input name="e-mail" type="email" required>
+        <br>
+        <br>
+
+        <label>Age:</label> <br>
+        <input name="Age" type="number" required min="12" style="width:3%;">
+        <br>
+        <br>
+
+        <label>Date of birth</label> <br>
+        <input name="date-birth" type="date" placeholder="dd / mm / yyyy">
+        <br>
+        <br>
+
+        <label>Where you have account:</label> <br>
+        <input name="social-media" type="checkbox" required>Facebook
+        <input name="social-media" type="checkbox" required>Instagram
+        <input name="social-media" type="checkbox" required>Linkedin
+        <br>
+        <br>
+
+        <label>Sex:</label> <br>
+        <input name="sex" type="radio" required>Masculino
+        <input name="sex" type="radio" required>Feminino
+        <br>
+        <br>
+
+        <label>Eye color :</label> 
+        <input name="eye" type="color" required>
+        <br>
+        <br>
+
+        <label>Biography :</label> <br>
+        <textarea name="textarea" rows="5" cols="30" placeholder="text"></textarea>
+        <br>
+        <br>     
+        
+        <label>Profile picture :</label>
+        <input type="file" accept="image/*" required>
+        <br>
+        <br>
+
+        <label>Telephone:</label> <br>
+        <input name="telephone" text="number" required>
+        <br>
+        <br>
+
+        <label>Profile link:</label> <br>
+        <input type="url" name="url" style="width: 20%;" required>
+        <br>
+        <br>
+
+        <label>Password :</label> <br>
+        <input type="password" name="number" required>
+        <br>
+        <br>
+
+        <button type="reset" name="reset">Limpar</button>
+        <button type="submit" name="submit">Enviar dados</button>
+        
+    </fieldset>
+    </form>
+</body>
+</html>

@@ -1,0 +1,137 @@
+* {
+  border-color: blue;
+}
+
+.image-symbol {
+  margin: 195px 170.85px 122.65px 170px;
+}
+
+.time {
+  margin: -3px 8px 0 2px;
+  height: 18px;
+  left: 0.33px;
+  right: 1.67px;
+  top: calc(50% - 18px / 2 + 3.5px);
+  font-family: SF Pro Text;
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: -0.333333px;
+  color: #000000;
+}
+
+.batery {  
+    margin: -10px 380px 18px;    
+  left: 8%;
+  right: 20%;
+  top: 19.44%;
+  bottom: 19.44%;
+  background: #000000;
+  border-radius: 1.33333px;  
+}
+
+.imagewifi {
+  position: absolute;
+}
+
+.wifi-image {
+    width: 15px;
+    margin: 1px 320px;
+    
+}
+
+.rede-sinal {
+  margin: -15px 340px 0px;
+  width: 15px;
+}
+
+input {
+  margin: 0 48px 21px 45px;
+  width: 321px;
+  height: 46px;
+  left: 45px;
+  top: 381px;
+  background: #f7f7f7;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  border: none;
+  padding-left: 19.28px;
+}
+
+.forgot {
+  width: 102px;
+  height: 15px;
+  left: 253px;
+  top: 529px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 17px;
+  color: #000000;
+  margin-left: 270px;
+}
+
+button {
+  display: block;
+  margin-top: 52px;
+  margin-left: 150px;
+  margin-bottom: 21px;
+  width: 133px;
+  height: 46px;
+  left: 140px;
+  top: 582px;
+  background: #323232;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  border-radius: 10px;
+  width: 133px;
+  height: 46px;
+  border: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 18px;
+  color: #ffffff;
+}
+
+.link-signUp {
+  width: 240px;
+  height: 18px;
+  left: 87px;
+  top: 649px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #969696;
+  margin-left: 98px;
+}
+
+p {
+  display: block;
+  width: 128px;
+  height: 29px;
+  left: 143px;
+  top: 729px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+  margin-left: 150px;
+}
+
+.container {
+  margin-left: 150px;
+}
+
+.dots-image {
+  margin-left: 13px;
+}
+
+.facebook-image {
+  margin-right: 13px;
+}
