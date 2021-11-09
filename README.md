@@ -2,7 +2,7 @@
 
 ### Basic Description
 
-<p> Apresento a vocês meu primeiro formulário utilizando HTML e CSS. </p>
+<p> I present to you my first form using HTML and CSS. </p>
 
 ## Interactive Controls
 
@@ -16,4 +16,4 @@
 <br>
 
 
-<strong>Não foi feito a parte de JS ⚠️</strong>
+<strong> No JS part was done ⚠️</strong>
